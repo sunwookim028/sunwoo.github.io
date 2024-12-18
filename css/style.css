@@ -32,7 +32,7 @@ nav a:hover {
 
 /* Footer styles */
 footer {
-  padding: 10px;
+  padding: 0px;
   position: static;
   bottom: 0;
   width: 100%;
@@ -41,20 +41,3 @@ footer {
 footer p {
   margin: 0;               /* Remove any default margins */
 }
-
-.figure {
-  text-align: center;
-  margin: 20px;
-}
-
-.figure img {
-  max-width: 100%;
-  height: auto;
-}
-
-.figure .caption {
-  font-style: italic;
-  margin-top: 5px;
-  color: #555;
-}
-
