@@ -41,3 +41,20 @@ footer {
 footer p {
   margin: 0;               /* Remove any default margins */
 }
+
+.figure {
+  text-align: center;
+  margin: 20px;
+}
+
+.figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.figure .caption {
+  font-style: italic;
+  margin-top: 5px;
+  color: #555;
+}
+
